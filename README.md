@@ -8,7 +8,7 @@ A logic circuit is an electronic circuit designed to perform specific logical op
 Logisim is a digital logic circuit design and simulation tool. It offers an intuitive drag-and-drop interface for creating complex logic circuits, making it ideal for both beginners and experienced electronics enthusiasts. With a rich library of components and robust simulation capabilities, Logisim is a powerful choice for learning digital logic and designing electronic circuits.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/emilienmarotta/Logic_Circuit_Design/blob/main/LICENSE). Please refer to the LICENSE file for more details.
+This project is licensed under the MIT License. Please refer to the [License](https://github.com/emilienmarotta/Logic_Circuit_Design/blob/main/LICENSE) file for more details.
 
 ## Credits
 This README file was created with the assistance of Chat-GPT (3.5), a language model developed by OpenAI.
